@@ -34,12 +34,3 @@
 ![](images/blood-supply/mb4_025.jpeg)
 
 ![](images/blood-supply/408.jpg)
-
-
-### Другие изображения
-
-![](images/blood-supply/000043.jpg)
-
-![](images/blood-supply/401.jpg)
-
-![](images/blood-supply/468.jpg)
