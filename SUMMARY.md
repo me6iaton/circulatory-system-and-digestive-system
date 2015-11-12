@@ -1,3 +1,3 @@
-# Summary
+# Содержание
 
-* [First Chapter](chapter1.md)
+* [Толстый кишечник](large-intestine.md)
